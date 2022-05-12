@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1 align='center'>
+  Hi there 👋  I'm Evren 👨‍💻
+</h1>
 
-<!--
-**EvrenUstun/EvrenUstun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+  A junior java backend developer.
+</p>
 
-Here are some ideas to get you started:
+<p align='center'>
+  📫 How to reach me: <a href='mailto:ustunnevren@gmail.com'>ustunnevren@gmail.com</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align='center'>
+  <a href="https://www.linkedin.com/in/evren-ustun/">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <br>
+</p>
+
+<h1 align='center'>
+  My GitHub Stats 📊
+</h1>
+
+<br>
+<p align='center'>
+  <img src="https://github-readme-stats.vercel.app/api?username=EvrenUstun" />
+</p>
