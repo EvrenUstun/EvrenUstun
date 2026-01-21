@@ -1,5 +1,7 @@
 <h1 align='center'>
-  Hi there <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">  I'm Evren 👨‍💻
+  
+  Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />  
+  I'm Evren 👨‍💻
 </h1>
 
 <p align='center'>
