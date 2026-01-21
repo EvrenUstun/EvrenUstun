@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A junior iOS developer
+  A Mobile developer
 </p>
 
 <p align="center">
